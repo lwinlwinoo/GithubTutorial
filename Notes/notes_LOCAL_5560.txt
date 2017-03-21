@@ -1,9 +1,6 @@
 modified hello github!
 This is my 2nd commit
-I am crazy
-I am crazier
-I am changing everything
 codeblock 3
-codeblock 5
+I am crazier
 Look at all the changes
 Let’s make conflicts
